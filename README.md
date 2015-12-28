@@ -15,3 +15,9 @@ v14フォーマットの[デバッグログ](http://doc.4d.com/4Dv15R2/4D/15-R2/
 * [Tech Note: 4D Log Analyzer v1.0 Preview](http://kb.4d.com/assetid=77198) 
 
 [4D Internet Commands](https://github.com/4D-JP/plugin-command-numbers/blob/master/4d-internet-commands.md)
+
+[4D Pack](https://github.com/4D-JP/plugin-command-numbers/blob/master/4d-pack.md)
+
+[4D ODBC Pro](https://github.com/4D-JP/plugin-command-numbers/blob/master/4d-odbc-pro.md)
+
+[4D for OCI](https://github.com/4D-JP/plugin-command-numbers/blob/master/4d-for-oci.md)
