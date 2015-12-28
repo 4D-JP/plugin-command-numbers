@@ -1,7 +1,7 @@
 4D ODBC Pro
 ---
 
-|: ID  :|: Command  :|: Theme :|
+|ID|Command|Theme|
 |------------:|---------------:|-----:|
 | 1 | ODBC_LenDataAtExec | ODBC_Macros
 | 2 | ODBC_SQLSetCursorName | ODBC_Prepare requests
