@@ -13,3 +13,5 @@ v14フォーマットの[デバッグログ](http://doc.4d.com/4Dv15R2/4D/15-R2/
 * [Tech Tip: Enhanced Debug Log recording in v14](http://kb.4d.com/assetid=77076)
 * [Tech Tip: New v14 formatting of Debug Log](http://kb.4d.com/assetid=77371)
 * [Tech Note: 4D Log Analyzer v1.0 Preview](http://kb.4d.com/assetid=77198) 
+
+[4D Internet Commands]
