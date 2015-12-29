@@ -24,3 +24,7 @@ Plugins
 [4D ODBC Pro](https://github.com/4D-JP/plugin-command-numbers/blob/master/4d-odbc-pro.md)
 
 [4D for OCI](https://github.com/4D-JP/plugin-command-numbers/blob/master/4d-for-oci.md)
+
+[4D Write](https://github.com/4D-JP/plugin-command-numbers/blob/master/4d-write.md)
+
+[4D View](https://github.com/4D-JP/plugin-command-numbers/blob/master/4d-view.md)
